@@ -1,2 +1,2 @@
 # myFirstTestApplication
-this is my first using Github, just for test
+this is this first update version for some physical changes, I'll explain them soon
